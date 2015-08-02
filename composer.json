@@ -1,0 +1,13 @@
+{
+    "name": "sfranken/csv-parser",
+    "description": "A simple PHP csv parser",
+    "require": {
+        "php": "5.4.0"
+    },
+    "authors": [
+        {
+            "name": "Sebastiaan Franken",
+            "email": "sebastiaan@sebastiaanfranken.nl"
+        }
+    ]
+}
