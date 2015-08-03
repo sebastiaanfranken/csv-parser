@@ -40,7 +40,7 @@ class CSVParser
 			$this->iterator->next();
 		}
 		
-		if($this->header == true)
+		if($header == true)
 		{
 			array_shift($this->lines);
 		}
