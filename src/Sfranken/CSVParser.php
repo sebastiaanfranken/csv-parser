@@ -1,5 +1,5 @@
 <?php
-namespace Sfranken
+namespace Sfranken;
 
 use SplFileObject;
 
